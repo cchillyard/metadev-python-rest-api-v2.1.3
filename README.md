@@ -2,3 +2,6 @@
 
 ## PREPARE
 ./ `pop install` 
+
+## RUN
+./ `uvicorn main:app --reload` 
